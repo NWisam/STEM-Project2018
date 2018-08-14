@@ -1,0 +1,13 @@
+body {
+       background-image:
+  url("../galaxy11.jfif");
+  background-size: cover;
+  font-style: oblique;
+  font-stretch: expanded;
+  font-size: 70
+ }
+ h1 {
+   color: pink;
+ }
+table { font-size: 30
+ }
